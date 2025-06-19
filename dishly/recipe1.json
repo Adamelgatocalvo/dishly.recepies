@@ -1,1 +1,20 @@
+{
+  "title": "Grilled Chicken Salad",
+  "tags": ["healthy", "high protein", "gluten free"],
+  "calories": 420,
+  "ingredients": [
+    "Chicken breast - 200g",
+    "Lettuce - 1 cup",
+    "Cherry tomatoes - 5 units",
+    "Olive oil - 1 tbsp",
+    "Lemon juice - 1 tsp"
+  ],
+  "steps": [
+    "1. Grill the chicken breast until fully cooked.",
+    "2. Chop the lettuce and slice the tomatoes.",
+    "3. Mix all ingredients in a bowl.",
+    "4. Drizzle with olive oil and lemon juice.",
+    "5. Serve fresh."
+  ]
+}
 
